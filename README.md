@@ -1,6 +1,6 @@
 # book
 
-> A Vue.js project
+> http://www.dreamer90.com/Book/index.html
 
 ## Build Setup
 
